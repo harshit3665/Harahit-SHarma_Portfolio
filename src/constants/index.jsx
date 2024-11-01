@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa6";
 
 import projectImage1 from "../assets/Project1.jpeg";
-import projectImage2 from "../assets/project2.jpEg";
+import projectImage2 from "../assets/project2.jpeg";
 import projectImage3 from "../assets/project3.jpeg";
 import projectImage4 from "../assets/project4.jpeg";
 import projectImage5 from "../assets/project5.jpeg";
