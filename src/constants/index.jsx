@@ -7,7 +7,7 @@ import {
   FaInstagram,
 } from "react-icons/fa6";
 
-import projectImage1 from "../assets/project1.jpeg";
+import projectImage1 from "../assets/Project1.jpeg";
 import projectImage2 from "../assets/project2.jpEg";
 import projectImage3 from "../assets/project3.jpeg";
 import projectImage4 from "../assets/project4.jpeg";
